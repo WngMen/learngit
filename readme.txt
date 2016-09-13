@@ -8,3 +8,4 @@ wangmeng
 wangmeng
 My stupid boss still prefers SVN.
 My stupid boss still prefers SVN.
+Creating a new branch is quick.
